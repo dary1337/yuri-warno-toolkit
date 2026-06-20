@@ -1,0 +1,186 @@
+{
+    "schema_version": 1,
+    "mods": [
+        {
+            "id": "ysm",
+            "name": "YSM",
+            "description": "Yokaiste's Sandbox Mod — open-source sandbox: all units (incl. hidden) unlocked, no activation/card caps, reworked UI.",
+            "icon": "https://raw.githubusercontent.com/dary1337/yuri-warno-toolkit/main/icons/ysm.png",
+            "builds": [
+                {
+                    "game_version": 138477,
+                    "url": "https://github.com/dary1337/YSM_Archives/releases/download/v138477/ysm_138477.zip"
+                },
+                {
+                    "game_version": 139038,
+                    "url": "https://github.com/dary1337/YSM_Archives/releases/download/v139038/ysm_139038.zip"
+                },
+                {
+                    "game_version": 139445,
+                    "url": "https://github.com/dary1337/YSM_Archives/releases/download/v139445/ysm_139445.zip"
+                },
+                {
+                    "game_version": 141373,
+                    "url": "https://github.com/dary1337/YSM_Archives/releases/download/v141373/ysm_141373.zip"
+                },
+                {
+                    "game_version": 141935,
+                    "url": "https://github.com/dary1337/YSM_Archives/releases/download/v141935/ysm_141935.zip"
+                },
+                {
+                    "game_version": 146198,
+                    "url": "https://github.com/dary1337/YSM_Archives/releases/download/v146198/ysm_146198.zip",
+                    "known_issues": "https://steamcommunity.com/workshop/filedetails/discussion/3296415395/4509876644765422685/#c595142234675886160"
+                },
+                {
+                    "game_version": 150731,
+                    "url": "https://github.com/dary1337/YSM_Archives/releases/download/v150731/ysm_150731.zip"
+                },
+                {
+                    "game_version": 157953,
+                    "url": "https://github.com/dary1337/YSM_Archives/releases/download/v157953/ysm_157953.zip"
+                },
+                {
+                    "game_version": 158113,
+                    "url": "https://github.com/dary1337/YSM_Archives/releases/download/v158113/ysm_158113.zip"
+                },
+                {
+                    "game_version": 160324,
+                    "url": "https://github.com/Yokaiste/YSM/releases/download/v160324/ysm_build_160324.zip"
+                },
+                {
+                    "game_version": 160943,
+                    "url": "https://github.com/Yokaiste/YSM/releases/download/v160943/ysm_build_160943.zip"
+                },
+                {
+                    "game_version": 165214,
+                    "url": "https://github.com/Yokaiste/YSM/releases/download/v165214/ysm_build_165214.zip"
+                },
+                {
+                    "game_version": 167812,
+                    "url": "https://github.com/Yokaiste/YSM/releases/download/v167812/ysm_build_167812.zip"
+                },
+                {
+                    "game_version": 168274,
+                    "url": "https://github.com/Yokaiste/YSM/releases/download/v168274/ysm_build_168274.zip"
+                },
+                {
+                    "game_version": 169425,
+                    "url": "https://github.com/Yokaiste/YSM/releases/download/v169425/ysm_build_169425.zip"
+                },
+                {
+                    "game_version": 172972,
+                    "url": "https://github.com/Yokaiste/YSM/releases/download/v172972/ysm_build_172972.zip"
+                },
+                {
+                    "game_version": 173446,
+                    "url": "https://github.com/Yokaiste/YSM/releases/download/v173446/ysm_build_173446.zip"
+                },
+                {
+                    "game_version": 174602,
+                    "url": "https://github.com/Yokaiste/YSM/releases/download/v174602/ysm_build_174602.zip"
+                },
+                {
+                    "game_version": 178307,
+                    "url": "https://github.com/Yokaiste/YSM/releases/download/v178307/ysm_build_178307.zip"
+                },
+                {
+                    "game_version": 178863,
+                    "url": "https://github.com/Yokaiste/YSM/releases/download/v178863/ysm_build_178863.zip"
+                },
+                {
+                    "game_version": 183326,
+                    "url": "https://github.com/Yokaiste/YSM/releases/download/v183326/ysm_build_183326.zip"
+                },
+                {
+                    "game_version": 184174,
+                    "url": "https://github.com/Yokaiste/YSM/releases/download/v184174/ysm_build_184174.zip"
+                },
+                {
+                    "game_version": 188908,
+                    "url": "https://github.com/Yokaiste/YSM/releases/download/v188908/ysm_build_188908.zip"
+                },
+                {
+                    "game_version": 189668,
+                    "url": "https://github.com/Yokaiste/YSM/releases/download/v189668/ysm_build_189668.zip"
+                },
+                {
+                    "game_version": 193438,
+                    "url": "https://github.com/Yokaiste/YSM/releases/download/v193438/ysm_build_193438.zip"
+                }
+            ]
+        },
+        {
+            "id": "wto",
+            "name": "WTO",
+            "description": "WARNO Tactical Overhaul — Freedom Decks, Realistic LOS, Unit Speed, 2x Scale.",
+            "icon": "https://raw.githubusercontent.com/dary1337/yuri-warno-toolkit/main/icons/wto.png",
+            "builds": [
+                {
+                    "game_version": 189668,
+                    "url": "https://github.com/dary1337/YSM_Archives/releases/download/v189668wto/wto_189668.7z"
+                },
+                {
+                    "game_version": 193438,
+                    "url": "https://github.com/dary1337/YSM_Archives/releases/download/v193438wto/wto_193438.7z"
+                }
+            ]
+        },
+        {
+            "id": "ysm_wif",
+            "name": "YSM x WiF",
+            "description": "YSM sandbox + A World in Flames — a modern-day (2015–2025) overhaul with new divisions.",
+            "icon": "https://raw.githubusercontent.com/dary1337/yuri-warno-toolkit/main/icons/ysm_wif.png",
+            "builds": [
+                {
+                    "game_version": 158113,
+                    "url": "https://github.com/dary1337/YSM_Archives/releases/download/v158113wif/ysm_wif_158113.zip"
+                },
+                {
+                    "game_version": 160943,
+                    "url": "https://github.com/dary1337/YSM_Archives/releases/download/v160943wif/ysm_wif_160943.zip"
+                },
+                {
+                    "game_version": 189668,
+                    "parts": [
+                        "https://github.com/dary1337/YSM_Archives/releases/download/v189668wif/ysm_wif_189668.7z.001",
+                        "https://github.com/dary1337/YSM_Archives/releases/download/v189668wif/ysm_wif_189668.7z.002",
+                        "https://github.com/dary1337/YSM_Archives/releases/download/v189668wif/ysm_wif_189668.7z.003"
+                    ]
+                },
+                {
+                    "game_version": 193438,
+                    "parts": [
+                        "https://github.com/dary1337/YSM_Archives/releases/download/v193438wif/ysm_wif_193438.7z.001",
+                        "https://github.com/dary1337/YSM_Archives/releases/download/v193438wif/ysm_wif_193438.7z.002",
+                        "https://github.com/dary1337/YSM_Archives/releases/download/v193438wif/ysm_wif_193438.7z.003"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "ysm_wif_wto",
+            "name": "YSM x WiF x WTO",
+            "description": "YSM sandbox + A World in Flames (modern day) + WARNO Tactical Overhaul.",
+            "icon": "https://raw.githubusercontent.com/dary1337/yuri-warno-toolkit/main/icons/ysm_wif_wto.png",
+            "builds": [
+                {
+                    "game_version": 189668,
+                    "parts": [
+                        "https://github.com/dary1337/YSM_Archives/releases/download/v189668wif_wto/ysm_wif_wto_189668.7z.001",
+                        "https://github.com/dary1337/YSM_Archives/releases/download/v189668wif_wto/ysm_wif_wto_189668.7z.002",
+                        "https://github.com/dary1337/YSM_Archives/releases/download/v189668wif_wto/ysm_wif_wto_189668.7z.003"
+                    ]
+                },
+                {
+                    "game_version": 193438,
+                    "parts": [
+                        "https://github.com/dary1337/YSM_Archives/releases/download/v193438wif_wto/ysm_wif_wto_193438.7z.001",
+                        "https://github.com/dary1337/YSM_Archives/releases/download/v193438wif_wto/ysm_wif_wto_193438.7z.002",
+                        "https://github.com/dary1337/YSM_Archives/releases/download/v193438wif_wto/ysm_wif_wto_193438.7z.003"
+                    ]
+                }
+            ]
+        }
+    ]
+}
