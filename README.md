@@ -21,6 +21,28 @@ A full **battlegroup editor** that works directly on your WARNO profile — read
 
 **Profile backups** — snapshot and restore your whole profile; every change is reversible.
 
+## Screenshots
+
+**Install and switch mods for your game build**
+<p align="center"><img src="docs/mods.png" alt="Mods" width="100%"></p>
+
+**Snapshot and restore your whole profile**
+<p align="center"><img src="docs/backups.png" alt="Backups" width="100%"></p>
+
+**Edit your battlegroups directly on your profile**
+<p align="center"><img src="docs/decks.png" alt="Decks" width="100%"></p>
+
+**Migrate decks from older builds and other mods**
+<p align="center"><img src="docs/migration.gif" alt="Migrate decks" width="100%"></p>
+
+**Add units from the full division pool**
+<p align="center"><img src="docs/add-unit.gif" alt="Add unit" width="100%"></p>
+
+**Import a shared deck code**
+<p align="center"><img src="docs/import.gif" alt="Import deck" width="100%"></p>
+
+
+
 ## Mod catalog
 
 This repository is the app's public **mod catalog**: [`mods-list.json`](mods-list.json) lists every supported mod and its builds. New mods and builds are added here — the app picks them up with no update needed.
