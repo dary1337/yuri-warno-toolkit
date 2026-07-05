@@ -1,4 +1,4 @@
-<h1 align="left">Yuri's WARNO Toolkit&nbsp;&nbsp;<a href="https://github.com/dary1337/yuri-warno-toolkit/releases/latest/download/YuriWarnoToolkit.exe"><img alt="Download" src="https://img.shields.io/badge/Download-5865F2?style=for-the-badge&logo=windows&logoColor=white"></a></h1>
+<h1 align="left">Yuri's WARNO Toolkit&nbsp;&nbsp;<a href="https://github.com/dary1337/yuri-warno-toolkit/releases/latest/download/YuriWarnoToolkit.exe"><img alt="Download" align="absmiddle" src="https://img.shields.io/badge/Download-5865F2?style=for-the-badge&logo=windows&logoColor=white"></a></h1>
 
 <p align="center">
   <img src="docs/hero.png" alt="Yuri's WARNO Toolkit" width="100%">
