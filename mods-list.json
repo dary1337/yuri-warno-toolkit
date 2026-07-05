@@ -3,9 +3,20 @@
     "mods": [
         {
             "id": "ysm",
-            "name": "YSM",
-            "description": "Yokaiste's Sandbox Mod — open-source sandbox: all units (incl. hidden) unlocked, no activation/card caps, reworked UI.",
-            "icon": "https://raw.githubusercontent.com/dary1337/yuri-warno-toolkit/main/icons/ysm.png",
+            "name": "YSM 2.0 [Open Beta]",
+            "description": "Yokaiste's Sandbox Mod — An advanced sandbox overhaul",
+            "workshop_id": 3758204546,
+            "builds": [
+                {
+                    "game_version": 193438,
+                    "url": "https://github.com/dary1337/YSM_Archives/releases/download/v193438openbeta/ysm2_193438_open_beta.7z"
+                }
+            ]
+        },
+        {
+            "id": "ysm_legacy",
+            "name": "YSM Legacy",
+            "description": "Yokaiste's Sandbox Mod — open-source sandbox: all units (incl. hidden) unlocked, no activation/card caps, reworked UI",
             "workshop_id": 3296415395,
             "builds": [
                 {
@@ -112,27 +123,9 @@
             ]
         },
         {
-            "id": "wto",
-            "name": "WTO",
-            "description": "WARNO Tactical Overhaul — Freedom Decks, Realistic LOS, Unit Speed, 2x Scale.",
-            "icon": "https://raw.githubusercontent.com/dary1337/yuri-warno-toolkit/main/icons/wto.png",
-            "workshop_id": 3387658237,
-            "builds": [
-                {
-                    "game_version": 189668,
-                    "url": "https://github.com/dary1337/YSM_Archives/releases/download/v189668wto/wto_189668.7z"
-                },
-                {
-                    "game_version": 193438,
-                    "url": "https://github.com/dary1337/YSM_Archives/releases/download/v193438wto/wto_193438.7z"
-                }
-            ]
-        },
-        {
             "id": "ysm_wif",
             "name": "YSM x WiF",
-            "description": "YSM sandbox + A World in Flames — a modern-day (2015–2025) overhaul with new divisions.",
-            "icon": "https://raw.githubusercontent.com/dary1337/yuri-warno-toolkit/main/icons/ysm_wif.png",
+            "description": "YSM sandbox + A World in Flames — a modern-day (2015–2025) overhaul with new divisions",
             "workshop_id": 3518369503,
             "builds": [
                 {
@@ -164,8 +157,7 @@
         {
             "id": "ysm_wif_wto",
             "name": "YSM x WiF x WTO",
-            "description": "YSM sandbox + A World in Flames (modern day) + WARNO Tactical Overhaul.",
-            "icon": "https://raw.githubusercontent.com/dary1337/yuri-warno-toolkit/main/icons/ysm_wif_wto.png",
+            "description": "YSM sandbox + A World in Flames (modern day) + WARNO Tactical Overhaul",
             "workshop_id": 3554281691,
             "builds": [
                 {
@@ -183,6 +175,22 @@
                         "https://github.com/dary1337/YSM_Archives/releases/download/v193438wif_wto/ysm_wif_wto_193438.7z.002",
                         "https://github.com/dary1337/YSM_Archives/releases/download/v193438wif_wto/ysm_wif_wto_193438.7z.003"
                     ]
+                }
+            ]
+        },
+        {
+            "id": "wto",
+            "name": "WTO",
+            "description": "WARNO Tactical Overhaul — Freedom Decks, Realistic LOS, Unit Speed, 2x Scale",
+            "workshop_id": 3387658237,
+            "builds": [
+                {
+                    "game_version": 189668,
+                    "url": "https://github.com/dary1337/YSM_Archives/releases/download/v189668wto/wto_189668.7z"
+                },
+                {
+                    "game_version": 193438,
+                    "url": "https://github.com/dary1337/YSM_Archives/releases/download/v193438wto/wto_193438.7z"
                 }
             ]
         }
