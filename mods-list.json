@@ -2,7 +2,7 @@
     "schema_version": 1,
     "mods": [
         {
-            "id": "ysm",
+            "id": "ysm2_open_beta",
             "name": "YSM 2.0 [Open Beta]",
             "description": "Yokaiste's Sandbox Mod — An advanced sandbox overhaul",
             "workshop_id": 3758204546,
