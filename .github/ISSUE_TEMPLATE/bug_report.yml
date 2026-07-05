@@ -1,0 +1,22 @@
+name: Bug report
+description: Something went wrong — attach the log or tell us what you did
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Keep it light — the log already records your version, system, and what the app did. Attach it, or just describe what you were doing.
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened
+      description: What went wrong, and what you were doing when it did.
+    validations:
+      required: true
+  - type: textarea
+    id: log
+    attributes:
+      label: Log file (recommended)
+      description: |
+        Click the **beta vX.Y.Z** badge in the title bar — the log file is shown in its folder. Drag `ywt_analytics.txt` here.

@@ -1,0 +1,26 @@
+name: Add a mod to the catalog
+description: Request a mod, or a new build of one, be added to the toolkit's catalog
+title: "[Mod]: "
+labels: ["mod-request"]
+body:
+  - type: input
+    id: mod-name
+    attributes:
+      label: Mod name
+    validations:
+      required: true
+  - type: input
+    id: workshop
+    attributes:
+      label: Steam Workshop link (if any)
+      placeholder: https://steamcommunity.com/sharedfiles/filedetails/?id=...
+  - type: input
+    id: build
+    attributes:
+      label: WARNO build it targets
+      placeholder: e.g. 193438
+  - type: textarea
+    id: notes
+    attributes:
+      label: Anything else
+      description: Download link, split archive, known issues — whatever helps.
