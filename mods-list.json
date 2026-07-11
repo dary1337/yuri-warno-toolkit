@@ -18,6 +18,22 @@
             ]
         },
         {
+            "id": "ysm2wif_open_beta",
+            "name": "YSM 2 x WiF",
+            "description": "YSM 2 sandbox + A World in Flames — a modern-day (2015–2025) overhaul with new divisions",
+            "workshop_id": 3762853993,
+            "builds": [
+                {
+                    "game_version": 197351,
+                    "parts": [
+                        "https://github.com/dary1337/YSM_Archives/releases/download/v197351wif_openbeta/ysm2_wif_197351_open_beta.7z.001",
+                        "https://github.com/dary1337/YSM_Archives/releases/download/v197351wif_openbeta/ysm2_wif_197351_open_beta.7z.002",
+                        "https://github.com/dary1337/YSM_Archives/releases/download/v197351wif_openbeta/ysm2_wif_197351_open_beta.7z.003"
+                    ] 
+                }
+            ]
+        },
+        {
             "id": "ysm_legacy",
             "name": "YSM Legacy",
             "description": "Yokaiste's Sandbox Mod — open-source sandbox: all units (incl. hidden) unlocked, no activation/card caps, reworked UI",
