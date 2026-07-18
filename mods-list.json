@@ -34,6 +34,22 @@
             ]
         },
         {
+            "id": "wto2_wif_open_beta",
+            "name": "WTO 2 x WiF [Open Beta]",
+            "description": "YSM 2 sandbox + A World in Flames (modern day) + WARNO Tactical Overhaul",
+            "workshop_id": 3766693512,
+            "builds": [
+                {
+                    "game_version": 197351,
+                    "parts": [
+                        "https://github.com/dary1337/YSM_Archives/releases/download/v197351wif_wto_open_beta/ysm2_wif_wto_197351_open_beta.7z.001",
+                        "https://github.com/dary1337/YSM_Archives/releases/download/v197351wif_wto_open_beta/ysm2_wif_wto_197351_open_beta.7z.002",
+                        "https://github.com/dary1337/YSM_Archives/releases/download/v197351wif_wto_open_beta/ysm2_wif_wto_197351_open_beta.7z.003"
+                    ] 
+                }
+            ]
+        },
+        {
             "id": "wto2_open_beta",
             "name": "WTO 2 [Open Beta]",
             "description": "WARNO Tactical Overhaul — Freedom Decks, Realistic LOS, Unit Speed, 2x Scale",
@@ -228,3 +244,4 @@
         }
     ]
 }
+
