@@ -9,10 +9,12 @@
             "builds": [
                 {
                     "game_version": 193438,
+                    "weight": 300799723,
                     "url": "https://github.com/dary1337/YSM_Archives/releases/download/v193438openbeta/ysm2_193438_open_beta.7z"
                 },
                 {
                     "game_version": 197351,
+                    "weight": 300813377,
                     "url": "https://github.com/dary1337/YSM_Archives/releases/download/v197351openbeta/ysm2_197351_open_beta.7z"
                 }
             ]
@@ -25,6 +27,7 @@
             "builds": [
                 {
                     "game_version": 197351,
+                    "weight": 3097792720,
                     "parts": [
                         "https://github.com/dary1337/YSM_Archives/releases/download/v197351wif_openbeta/ysm2_wif_197351_open_beta.7z.001",
                         "https://github.com/dary1337/YSM_Archives/releases/download/v197351wif_openbeta/ysm2_wif_197351_open_beta.7z.002",
@@ -41,6 +44,7 @@
             "builds": [
                 {
                     "game_version": 197351,
+                    "weight": 2850865097,
                     "parts": [
                         "https://github.com/dary1337/YSM_Archives/releases/download/v197351wif_wto_open_beta/ysm2_wif_wto_197351_open_beta.7z.001",
                         "https://github.com/dary1337/YSM_Archives/releases/download/v197351wif_wto_open_beta/ysm2_wif_wto_197351_open_beta.7z.002",
@@ -57,6 +61,7 @@
             "builds": [
                 {
                     "game_version": 197351,
+                    "weight": 58118179,
                     "url": "https://github.com/dary1337/YSM_Archives/releases/download/v197351wto_openbeta/wto2_197351_open_beta.7z"
                 }
             ]
@@ -69,103 +74,128 @@
             "builds": [
                 {
                     "game_version": 138477,
+                    "weight": 2180592,
                     "url": "https://github.com/dary1337/YSM_Archives/releases/download/v138477/ysm_138477.zip"
                 },
                 {
                     "game_version": 139038,
+                    "weight": 2171038,
                     "url": "https://github.com/dary1337/YSM_Archives/releases/download/v139038/ysm_139038.zip"
                 },
                 {
                     "game_version": 139445,
+                    "weight": 2171019,
                     "url": "https://github.com/dary1337/YSM_Archives/releases/download/v139445/ysm_139445.zip"
                 },
                 {
                     "game_version": 141373,
+                    "weight": 2420600,
                     "url": "https://github.com/dary1337/YSM_Archives/releases/download/v141373/ysm_141373.zip"
                 },
                 {
                     "game_version": 141935,
+                    "weight": 2418628,
                     "url": "https://github.com/dary1337/YSM_Archives/releases/download/v141935/ysm_141935.zip"
                 },
                 {
                     "game_version": 146198,
+                    "weight": 2509350,
                     "url": "https://github.com/dary1337/YSM_Archives/releases/download/v146198/ysm_146198.zip",
                     "known_issues": "https://steamcommunity.com/workshop/filedetails/discussion/3296415395/4509876644765422685/#c595142234675886160"
                 },
                 {
                     "game_version": 150731,
+                    "weight": 2487554,
                     "url": "https://github.com/dary1337/YSM_Archives/releases/download/v150731/ysm_150731.zip"
                 },
                 {
                     "game_version": 157953,
+                    "weight": 2012398,
                     "url": "https://github.com/dary1337/YSM_Archives/releases/download/v157953/ysm_157953.zip"
                 },
                 {
                     "game_version": 158113,
+                    "weight": 5399150,
                     "url": "https://github.com/dary1337/YSM_Archives/releases/download/v158113/ysm_158113.zip"
                 },
                 {
                     "game_version": 160324,
+                    "weight": 4134786,
                     "url": "https://github.com/dary1337/YSM_Archives/releases/download/v160324/ysm_160324.zip"
                 },
                 {
                     "game_version": 160943,
+                    "weight": 4134811,
                     "url": "https://github.com/dary1337/YSM_Archives/releases/download/v160943/ysm_160943.zip"
                 },
                 {
                     "game_version": 165214,
+                    "weight": 4114749,
                     "url": "https://github.com/dary1337/YSM_Archives/releases/download/v165214/ysm_165214.zip"
                 },
                 {
                     "game_version": 167812,
+                    "weight": 4131803,
                     "url": "https://github.com/dary1337/YSM_Archives/releases/download/v167812/ysm_167812.zip"
                 },
                 {
                     "game_version": 168274,
+                    "weight": 4132258,
                     "url": "https://github.com/dary1337/YSM_Archives/releases/download/v168274/ysm_168274.zip"
                 },
                 {
                     "game_version": 169425,
+                    "weight": 4148782,
                     "url": "https://github.com/dary1337/YSM_Archives/releases/download/v169425/ysm_169425.zip"
                 },
                 {
                     "game_version": 172972,
+                    "weight": 4175414,
                     "url": "https://github.com/dary1337/YSM_Archives/releases/download/v172972/ysm_172972.zip"
                 },
                 {
                     "game_version": 173446,
+                    "weight": 4175303,
                     "url": "https://github.com/dary1337/YSM_Archives/releases/download/v173446/ysm_173446.zip"
                 },
                 {
                     "game_version": 174602,
+                    "weight": 4176068,
                     "url": "https://github.com/dary1337/YSM_Archives/releases/download/v174602/ysm_174602.zip"
                 },
                 {
                     "game_version": 178307,
+                    "weight": 5014626,
                     "url": "https://github.com/dary1337/YSM_Archives/releases/download/v178307/ysm_178307.zip"
                 },
                 {
                     "game_version": 178863,
+                    "weight": 5014688,
                     "url": "https://github.com/dary1337/YSM_Archives/releases/download/v178863/ysm_178863.zip"
                 },
                 {
                     "game_version": 183326,
+                    "weight": 5027560,
                     "url": "https://github.com/dary1337/YSM_Archives/releases/download/v183326/ysm_183326.zip"
                 },
                 {
                     "game_version": 184174,
+                    "weight": 5029194,
                     "url": "https://github.com/dary1337/YSM_Archives/releases/download/v184174/ysm_184174.zip"
                 },
                 {
                     "game_version": 188908,
+                    "weight": 5161012,
                     "url": "https://github.com/dary1337/YSM_Archives/releases/download/v188908/ysm_188908.zip"
                 },
                 {
                     "game_version": 189668,
+                    "weight": 5154430,
                     "url": "https://github.com/dary1337/YSM_Archives/releases/download/v189668/ysm_189668.zip"
                 },
                 {
                     "game_version": 193438,
+                    "weight": 4500387,
                     "url": "https://github.com/dary1337/YSM_Archives/releases/download/v193438/ysm_193438.zip"
                 }
             ]
@@ -178,14 +208,17 @@
             "builds": [
                 {
                     "game_version": 158113,
+                    "weight": 1431563944,
                     "url": "https://github.com/dary1337/YSM_Archives/releases/download/v158113wif/ysm_wif_158113.zip"
                 },
                 {
                     "game_version": 160943,
+                    "weight": 1675877522,
                     "url": "https://github.com/dary1337/YSM_Archives/releases/download/v160943wif/ysm_wif_160943.zip"
                 },
                 {
                     "game_version": 189668,
+                    "weight": 2844139844,
                     "parts": [
                         "https://github.com/dary1337/YSM_Archives/releases/download/v189668wif/ysm_wif_189668.7z.001",
                         "https://github.com/dary1337/YSM_Archives/releases/download/v189668wif/ysm_wif_189668.7z.002",
@@ -194,6 +227,7 @@
                 },
                 {
                     "game_version": 193438,
+                    "weight": 2807680127,
                     "parts": [
                         "https://github.com/dary1337/YSM_Archives/releases/download/v193438wif/ysm_wif_193438.7z.001",
                         "https://github.com/dary1337/YSM_Archives/releases/download/v193438wif/ysm_wif_193438.7z.002",
@@ -210,6 +244,7 @@
             "builds": [
                 {
                     "game_version": 189668,
+                    "weight": 2778988896,
                     "parts": [
                         "https://github.com/dary1337/YSM_Archives/releases/download/v189668wif_wto/ysm_wif_wto_189668.7z.001",
                         "https://github.com/dary1337/YSM_Archives/releases/download/v189668wif_wto/ysm_wif_wto_189668.7z.002",
@@ -218,6 +253,7 @@
                 },
                 {
                     "game_version": 193438,
+                    "weight": 2909751876,
                     "parts": [
                         "https://github.com/dary1337/YSM_Archives/releases/download/v193438wif_wto/ysm_wif_wto_193438.7z.001",
                         "https://github.com/dary1337/YSM_Archives/releases/download/v193438wif_wto/ysm_wif_wto_193438.7z.002",
@@ -234,10 +270,12 @@
             "builds": [
                 {
                     "game_version": 189668,
+                    "weight": 5003550,
                     "url": "https://github.com/dary1337/YSM_Archives/releases/download/v189668wto/wto_189668.7z"
                 },
                 {
                     "game_version": 193438,
+                    "weight": 4671387,
                     "url": "https://github.com/dary1337/YSM_Archives/releases/download/v193438wto/wto_193438.7z"
                 }
             ]
