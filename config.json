@@ -1,4 +1,126 @@
 {
     "schema_version": 1,
-    "collab_opt_out": []
+    "collab_opt_out": [],
+    "overlay_support": [
+        {
+            "workshop_id": 3039144581,
+            "overlays": [
+                {
+                    "id": "YSM",
+                    "state": "verified",
+                    "checked": "2026-08-08T15:42:11Z"
+                },
+                {
+                    "id": "WTO",
+                    "state": "unsupported",
+                    "checked": "2026-08-08T15:42:11Z"
+                }
+            ]
+        },
+        {
+            "workshop_id": 3595948209,
+            "overlays": [
+                {
+                    "id": "YSM",
+                    "state": "verified",
+                    "checked": "2026-08-08T15:42:11Z"
+                },
+                {
+                    "id": "WTO",
+                    "state": "verified",
+                    "checked": "2026-08-08T15:42:11Z"
+                }
+            ]
+        },
+        {
+            "workshop_id": 3388575848,
+            "overlays": [
+                {
+                    "id": "YSM",
+                    "state": "verified",
+                    "checked": "2026-08-08T15:42:11Z"
+                },
+                {
+                    "id": "WTO",
+                    "state": "verified",
+                    "checked": "2026-08-08T15:42:11Z"
+                }
+            ]
+        },
+        {
+            "workshop_id": 3466696134,
+            "overlays": [
+                {
+                    "id": "YSM",
+                    "state": "verified",
+                    "checked": "2026-08-08T15:42:11Z"
+                },
+                {
+                    "id": "WTO",
+                    "state": "verified",
+                    "checked": "2026-08-08T15:42:11Z"
+                }
+            ]
+        },
+        {
+            "workshop_id": 3355605857,
+            "overlays": [
+                {
+                    "id": "YSM",
+                    "state": "verified",
+                    "checked": "2026-08-08T15:42:11Z"
+                },
+                {
+                    "id": "WTO",
+                    "state": "verified",
+                    "checked": "2026-08-08T15:42:11Z"
+                }
+            ]
+        },
+        {
+            "workshop_id": 3395350736,
+            "overlays": [
+                {
+                    "id": "YSM",
+                    "state": "verified",
+                    "checked": "2026-08-08T15:42:11Z"
+                },
+                {
+                    "id": "WTO",
+                    "state": "verified",
+                    "checked": "2026-08-08T15:42:11Z"
+                }
+            ]
+        },
+        {
+            "workshop_id": 3468295142,
+            "overlays": [
+                {
+                    "id": "YSM",
+                    "state": "verified",
+                    "checked": "2026-08-08T15:42:11Z"
+                },
+                {
+                    "id": "WTO",
+                    "state": "verified",
+                    "checked": "2026-08-08T15:42:11Z"
+                }
+            ]
+        },
+        {
+            "workshop_id": 3604294508,
+            "overlays": [
+                {
+                    "id": "YSM",
+                    "state": "verified",
+                    "checked": "2026-08-08T15:42:11Z"
+                },
+                {
+                    "id": "WTO",
+                    "state": "unsupported",
+                    "checked": "2026-08-08T15:42:11Z"
+                }
+            ]
+        }
+    ]
 }
