@@ -2,6 +2,19 @@
     "schema_version": 1,
     "mods": [
         {
+            "id": "ysm2",
+            "name": "YSM 2",
+            "description": "Yokaiste's Sandbox Mod — An advanced sandbox overhaul",
+            "workshop_id": 3296415395,
+            "builds": [
+                {
+                    "game_version": 201602,
+                    "weight": 73902645,
+                    "url": "https://github.com/dary1337/YSM_Archives/releases/download/v201602/ysm_201602.7z"
+                }
+            ]
+        },
+        {
             "id": "ysm2_open_beta",
             "name": "YSM 2 [Open Beta]",
             "description": "Yokaiste's Sandbox Mod — An advanced sandbox overhaul",
@@ -277,6 +290,11 @@
                     "game_version": 193438,
                     "weight": 4671387,
                     "url": "https://github.com/dary1337/YSM_Archives/releases/download/v193438wto/wto_193438.7z"
+                },
+                {
+                    "game_version": 201602,
+                    "weight": 76775377,
+                    "url": "https://github.com/dary1337/YSM_Archives/releases/download/v201602wto/wto_201602.7z"
                 }
             ]
         }
