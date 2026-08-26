@@ -276,6 +276,19 @@
             ]
         },
         {
+            "id": "wto2",
+            "name": "WTO 2",
+            "description": "WARNO Tactical Overhaul — Freedom Decks, Realistic LOS, Unit Speed, 2x Scale",
+            "workshop_id": 3387658237,
+            "builds": [
+                {
+                    "game_version": 201602,
+                    "weight": 76775377,
+                    "url": "https://github.com/dary1337/YSM_Archives/releases/download/v201602wto/wto_201602.7z"
+                }
+            ]
+        },
+        {
             "id": "wto",
             "name": "WTO",
             "description": "WARNO Tactical Overhaul — Freedom Decks, Realistic LOS, Unit Speed, 2x Scale",
@@ -290,11 +303,6 @@
                     "game_version": 193438,
                     "weight": 4671387,
                     "url": "https://github.com/dary1337/YSM_Archives/releases/download/v193438wto/wto_193438.7z"
-                },
-                {
-                    "game_version": 201602,
-                    "weight": 76775377,
-                    "url": "https://github.com/dary1337/YSM_Archives/releases/download/v201602wto/wto_201602.7z"
                 }
             ]
         }
