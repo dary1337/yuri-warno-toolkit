@@ -42,14 +42,14 @@
                 {
                     "id": "YSM",
                     "state": "verified",
-                    "checked": "2026-08-08T15:42:11Z",
-                    "game_version": 197351
+                    "checked": "2026-08-25T23:54:49Z",
+                    "game_version": 201602
                 },
                 {
                     "id": "WTO",
                     "state": "verified",
-                    "checked": "2026-08-08T15:42:11Z",
-                    "game_version": 197351
+                    "checked": "2026-08-25T23:54:49Z",
+                    "game_version": 201602
                 }
             ]
         },
@@ -93,13 +93,13 @@
                 {
                     "id": "YSM",
                     "state": "verified",
-                    "checked": "2026-08-21T20:28:42Z",
+                    "checked": "2026-08-25T23:54:49Z",
                     "game_version": 201602
                 },
                 {
                     "id": "WTO",
                     "state": "verified",
-                    "checked": "2026-08-21T20:28:42Z",
+                    "checked": "2026-08-25T23:54:49Z",
                     "game_version": 201602
                 }
             ]
