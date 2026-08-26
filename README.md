@@ -19,6 +19,8 @@ A full **battlegroup editor** that works directly on your WARNO profile — read
 
 **Installs the mods** — YSM, WTO, YSM × WiF, YSM × WiF × WTO in one click. Finds your WARNO (Steam or non-Steam), picks the build that matches your game version, backs up your current setup first, and rolls back if anything fails.
 
+**Builds the mods** — the **Mod Builder** puts YSM together with a mod you already play, or turns YSM into your own customized build. Pick a mod you are subscribed to, layer YSM and WTO on top, switch features on and off, and generate a mod WARNO loads like any other — no modding tools, no command line. Learn more on the [YSM Community Discord](https://discord.gg/CzVz6KXPE5).
+
 **Profile backups** — snapshot and restore your whole profile; every change is reversible.
 
 ## Screenshots
