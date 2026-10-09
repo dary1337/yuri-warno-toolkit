@@ -8,18 +8,18 @@
   Edit your WARNO battlegroups directly on your profile — even the decks the game won't let you build — with one-click <b>YSM</b> install built in.
 </p>
 
-> [!IMPORTANT]
-> **Now in open beta.** Hit a bug or have an idea? Tell us on the [YSM Community Discord](https://discord.gg/YWXzmt8psB) — it shapes what gets built next.
+> [!TIP]
+> Hit a bug or have an idea? Tell us on the [YSM Community Discord](https://discord.gg/YWXzmt8psB) — it shapes what gets built next.
 
 A full **battlegroup editor** that works directly on your WARNO profile — read, edit and build decks, including the ones WARNO hides or won't let you import — with one-click install of **YSM** and its collaborations built in.
 
 ## What it does
 
-**Edits your battlegroups** — the heart of the toolkit. It reads every deck in your profile, *including the ones WARNO hides* (built under another mod or an older game build), and lets you edit units, veterancy and transports; rename, delete, duplicate, or copy a deck to the other coalition; or build new battlegroups from scratch — with full unit art, division emblems and flags. It even builds decks **too heavy to share by in-game code**, past WARNO's import limit, by writing them straight into your profile. Every change goes back into the game profile — always backed up and verified first.
+**Edits your battlegroups** — the heart of the toolkit. It reads every deck in your profile, *including the ones WARNO hides* (built under another mod or an older game build), moves them onto the mod you play, and lets you edit units, veterancy and transports; rename, delete, duplicate, or copy a deck to the other coalition; or build new battlegroups from scratch — with full unit art, division emblems and flags. It even builds decks **too heavy to share by in-game code**, past WARNO's import limit, by writing them straight into your profile. Every change goes back into the game profile — always backed up and verified first.
 
 **Installs the mods** — YSM, WTO, YSM × WiF, YSM × WiF × WTO in one click. Finds your WARNO (Steam or non-Steam), picks the build that matches your game version, backs up your current setup first, and rolls back if anything fails.
 
-**Builds the mods** — the **Mod Builder** puts YSM together with a mod you already play, or turns YSM into your own customized build. Pick a mod you are subscribed to, layer YSM and WTO on top, switch features on and off, and generate a mod WARNO loads like any other — no modding tools, no command line. Learn more on the [YSM Community Discord](https://discord.gg/CzVz6KXPE5).
+**Builds the mods** — pick a mod you play, add YSM and WTO on top, switch features on or off, and get a mod WARNO loads like any other. Powered by **[YMB — Yokaiste's Mod Builder](https://github.com/Yokaiste/YMB)**. Learn more on the [YSM Community Discord](https://discord.gg/CzVz6KXPE5).
 
 **Profile backups** — snapshot and restore your whole profile; every change is reversible.
 
