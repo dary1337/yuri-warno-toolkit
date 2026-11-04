@@ -43,6 +43,10 @@ A full **battlegroup editor** that works directly on your WARNO profile — read
 **Import a shared deck code**
 <p align="center"><img src="docs/import.gif" alt="Import deck" width="100%"></p>
 
+## Like the look?
+
+The entire interface is [**material3-dotnet**](https://github.com/dary1337/material3-dotnet) — Material 3 (Material You) for .NET desktop: themed WinForms & WPF controls with dynamic color (HCT) from one seed, live light/dark theming, type scale, elevation, and motion. Dependency-free, MIT. Everything you see in this toolkit — buttons, cards, dialogs, scrollbars, the titlebar — comes straight from the library
+
 ## Mod catalog
 
 This repository is the app's public **mod catalog**: [`mods-list.json`](mods-list.json) lists every supported mod and its builds. New mods and builds are added here — the app picks them up with no update needed
