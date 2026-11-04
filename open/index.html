@@ -76,7 +76,7 @@
     <body>
         <div class="card">
             <h1>Opening in Yuri's WARNO Toolkit…</h1>
-            <p id="sub">If nothing happens, click the button below.</p>
+            <p id="sub">If nothing happens, click the button below</p>
             <a id="open" class="btn" href="#">▶ Open the deck</a>
             <p class="muted">Don't have the toolkit? <a href="https://github.com/dary1337/yuri-warno-toolkit/releases/latest">Download it now</a></p>
             <a class="discord" href="https://discord.gg/YWXzmt8psB">
@@ -90,7 +90,7 @@
                 var sub = document.getElementById('sub');
                 var link = document.getElementById('open');
                 if (!q || q === '?') {
-                    sub.textContent = 'This link has no deck in it.';
+                    sub.textContent = 'This link has no deck in it';
                     link.style.display = 'none';
                     return;
                 }
@@ -98,7 +98,7 @@
                 link.href = target;
                 try {
                     var name = new URLSearchParams(q).get('name');
-                    if (name) sub.textContent = 'Importing “' + name + '” — if nothing happens, click below.';
+                    if (name) sub.textContent = 'Importing “' + name + '” — if nothing happens, click below';
                 } catch (e) {}
                 location.replace(target);
             })();
