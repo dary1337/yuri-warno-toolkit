@@ -28,6 +28,9 @@ A full **battlegroup editor** that works directly on your WARNO profile — read
 **Install and switch mods for your game build**
 <p align="center"><img src="docs/mods.png" alt="Mods" width="100%"></p>
 
+**Build YSM and WTO on top of the mods you play**
+<p align="center"><img src="docs/builder.png" alt="Mod Builder" width="100%"></p>
+
 **Snapshot and restore your whole profile**
 <p align="center"><img src="docs/backups.png" alt="Backups" width="100%"></p>
 
