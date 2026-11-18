@@ -76,14 +76,14 @@
                 {
                     "id": "YSM",
                     "state": "verified",
-                    "checked": "2026-11-04T12:23:10Z",
-                    "game_version": 201602
+                    "checked": "2026-11-18T21:09:28Z",
+                    "game_version": 212400
                 },
                 {
                     "id": "WTO",
                     "state": "verified",
-                    "checked": "2026-11-04T12:23:10Z",
-                    "game_version": 201602
+                    "checked": "2026-11-18T21:09:28Z",
+                    "game_version": 212400
                 }
             ]
         },
@@ -93,14 +93,14 @@
                 {
                     "id": "YSM",
                     "state": "verified",
-                    "checked": "2026-11-13T08:06:59Z",
-                    "game_version": 210942
+                    "checked": "2026-11-18T21:09:28Z",
+                    "game_version": 212400
                 },
                 {
                     "id": "WTO",
                     "state": "verified",
-                    "checked": "2026-11-13T08:06:59Z",
-                    "game_version": 210942
+                    "checked": "2026-11-18T21:09:28Z",
+                    "game_version": 212400
                 }
             ]
         },
@@ -144,14 +144,14 @@
                 {
                     "id": "YSM",
                     "state": "verified",
-                    "checked": "2026-10-09T18:27:58Z",
-                    "game_version": 201602
+                    "checked": "2026-11-18T21:09:28Z",
+                    "game_version": 212400
                 },
                 {
                     "id": "WTO",
                     "state": "verified",
-                    "checked": "2026-10-09T18:27:58Z",
-                    "game_version": 201602
+                    "checked": "2026-11-18T21:09:28Z",
+                    "game_version": 212400
                 }
             ]
         },
@@ -161,8 +161,8 @@
                 {
                     "id": "YSM",
                     "state": "verified",
-                    "checked": "2026-11-04T12:23:10Z",
-                    "game_version": 201602
+                    "checked": "2026-11-18T21:09:28Z",
+                    "game_version": 212400
                 },
                 {
                     "id": "WTO",
