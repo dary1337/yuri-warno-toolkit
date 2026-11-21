@@ -42,14 +42,14 @@
                 {
                     "id": "YSM",
                     "state": "verified",
-                    "checked": "2026-10-09T18:27:58Z",
-                    "game_version": 201602
+                    "checked": "2026-11-21T11:41:30Z",
+                    "game_version": 212400
                 },
                 {
                     "id": "WTO",
                     "state": "verified",
-                    "checked": "2026-10-09T18:27:58Z",
-                    "game_version": 201602
+                    "checked": "2026-11-21T11:41:30Z",
+                    "game_version": 212400
                 }
             ]
         },
@@ -110,14 +110,14 @@
                 {
                     "id": "YSM",
                     "state": "verified",
-                    "checked": "2026-09-13T00:48:56Z",
-                    "game_version": 201602
+                    "checked": "2026-11-21T11:41:30Z",
+                    "game_version": 212400
                 },
                 {
                     "id": "WTO",
                     "state": "verified",
-                    "checked": "2026-09-13T00:48:56Z",
-                    "game_version": 201602
+                    "checked": "2026-11-21T11:41:30Z",
+                    "game_version": 212400
                 }
             ]
         },
@@ -144,13 +144,13 @@
                 {
                     "id": "YSM",
                     "state": "verified",
-                    "checked": "2026-11-18T21:09:28Z",
+                    "checked": "2026-11-21T11:41:30Z",
                     "game_version": 212400
                 },
                 {
                     "id": "WTO",
                     "state": "verified",
-                    "checked": "2026-11-18T21:09:28Z",
+                    "checked": "2026-11-21T11:41:30Z",
                     "game_version": 212400
                 }
             ]
@@ -161,14 +161,14 @@
                 {
                     "id": "YSM",
                     "state": "verified",
-                    "checked": "2026-11-18T21:09:28Z",
+                    "checked": "2026-11-21T11:41:30Z",
                     "game_version": 212400
                 },
                 {
                     "id": "WTO",
                     "state": "unsupported",
-                    "checked": "2026-11-04T12:23:10Z",
-                    "game_version": 201602
+                    "checked": "2026-11-21T11:41:30Z",
+                    "game_version": 212400
                 }
             ]
         },
