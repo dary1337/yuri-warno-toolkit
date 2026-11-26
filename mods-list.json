@@ -16,6 +16,11 @@
                     "game_version": 210942,
                     "weight": 79400272,
                     "url": "https://github.com/dary1337/YSM_Archives/releases/download/v210942/ysm_210942.7z"
+                },
+                {
+                    "game_version": 212400,
+                    "weight": 79396416,
+                    "url": "https://github.com/dary1337/YSM_Archives/releases/download/v212400/ysm_212400.7z"
                 }
             ]
         },
@@ -295,6 +300,11 @@
                     "game_version": 210942,
                     "weight": 79395654,
                     "url": "https://github.com/dary1337/YSM_Archives/releases/download/v210942wto/wto_210942.7z"
+                },
+                {
+                    "game_version": 212400,
+                    "weight": 73604844,
+                    "url": "https://github.com/dary1337/YSM_Archives/releases/download/v212400wto/wto_212400.7z"
                 }
             ]
         },
